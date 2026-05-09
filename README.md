@@ -15,16 +15,14 @@
 ## 👨‍💻 Languages
 
 <p align="center">
-
-![Flutter](https://img.shields.io/badge/-Flutter-000?\&logo=Flutter)
-![Dart](https://img.shields.io/badge/-Dart-000?\&logo=Dart)
-![HTML5](https://img.shields.io/badge/-HTML5-000?\&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-000?\&logo=CSS3)
-![Java](https://img.shields.io/badge/-Java-000?\&logo=Java\&logoColor=007396)
-![C](https://img.shields.io/badge/-C-000?\&logo=C)
-![C++](https://img.shields.io/badge/-C++-000?\&logo=c%2b%2b\&logoColor=00599C)
-![Python](https://img.shields.io/badge/-Python-000?\&logo=Python)
-
+  <img src="https://img.shields.io/badge/-Flutter-000?&logo=Flutter" />
+  <img src="https://img.shields.io/badge/-Dart-000?&logo=Dart" />
+  <img src="https://img.shields.io/badge/-HTML5-000?&logo=HTML5" />
+  <img src="https://img.shields.io/badge/-CSS3-000?&logo=CSS3" />
+  <img src="https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396" />
+  <img src="https://img.shields.io/badge/-C-000?&logo=C" />
+  <img src="https://img.shields.io/badge/-C%2B%2B-000?&logo=c%2b%2b&logoColor=00599C" />
+  <img src="https://img.shields.io/badge/-Python-000?&logo=Python" />
 </p>
 
 ---
@@ -32,35 +30,35 @@
 ## 🛠 Technologies & Tools
 
 <p align="center">
-
-![Git](https://img.shields.io/badge/-Git-000?\&logo=Git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?\&logo=GitHub)
-![VS Code](https://img.shields.io/badge/-VSCode-000?\&logo=VisualStudioCode)
-![Linux](https://img.shields.io/badge/-Linux-000?\&logo=Linux)
-![MySQL](https://img.shields.io/badge/-MySQL-000?\&logo=MySQL)
-
+  <img src="https://img.shields.io/badge/-Git-000?&logo=Git" />
+  <img src="https://img.shields.io/badge/-GitHub-000?&logo=GitHub" />
+  <img src="https://img.shields.io/badge/-VSCode-000?&logo=VisualStudioCode" />
+  <img src="https://img.shields.io/badge/-Linux-000?&logo=Linux" />
+  <img src="https://img.shields.io/badge/-MySQL-000?&logo=MySQL" />
 </p>
 
 ---
 
 ## 🚀 Projects
 
-[![](https://img.shields.io/badge/-⚽%20Football%20Store-000)](https://github.com/mohamedosama503)
-
-[![](https://img.shields.io/badge/-🎁%20Charity%20Management%20System-000)](https://github.com/mohamedosama503)
-
-[![](https://img.shields.io/badge/-🔐%20File%20Encryption%20App-000)](https://github.com/mohamedosama503)
-
-[![](https://img.shields.io/badge/-🏆%20Club%20Management%20System-000)](https://github.com/mohamedosama503)
+<p align="center">
+  <a href="https://github.com/mohamedosama503"><img src="https://img.shields.io/badge/-⚽%20Football%20Store-000" /></a>
+  <a href="https://github.com/mohamedosama503"><img src="https://img.shields.io/badge/-🎁%20Charity%20Management%20System-000" /></a>
+  <a href="https://github.com/mohamedosama503"><img src="https://img.shields.io/badge/-🔐%20File%20Encryption%20App-000" /></a>
+  <a href="https://github.com/mohamedosama503"><img src="https://img.shields.io/badge/-🏆%20Club%20Management%20System-000" /></a>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=mohamedosama503&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamedosama503&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedosama503&layout=compact&theme=tokyonight" />
+</p>
 
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedosama503&layout=compact&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedosama503&theme=tokyonight" />
 </p>
 
 ---
@@ -68,15 +66,10 @@
 ## 🌍 Connect With Me
 
 <p align="center">
-
-[![Facebook](https://img.shields.io/badge/-Facebook-000?\&logo=Facebook)](https://www.facebook.com/mohamed.osama.7001)
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?\&logo=Linkedin)](https://www.linkedin.com/in/mohamed-osama-431a01337/)
-
-[![TikTok](https://img.shields.io/badge/-TikTok-000?\&logo=TikTok)](https://www.tiktok.com/@mohamedosama_503?lang=en)
-
-[![GitHub](https://img.shields.io/badge/-GitHub-000?\&logo=GitHub)](https://github.com/mohamedosama503)
-
+  <a href="https://www.facebook.com/mohamed.osama.7001"><img src="https://img.shields.io/badge/-Facebook-000?&logo=Facebook" /></a>
+  <a href="https://www.linkedin.com/in/mohamed-osama-431a01337/"><img src="https://img.shields.io/badge/-LinkedIn-000?&logo=Linkedin" /></a>
+  <a href="https://www.tiktok.com/@mohamedosama_503?lang=en"><img src="https://img.shields.io/badge/-TikTok-000?&logo=TikTok" /></a>
+  <a href="https://github.com/mohamedosama503"><img src="https://img.shields.io/badge/-GitHub-000?&logo=GitHub" /></a>
 </p>
 
 ---
