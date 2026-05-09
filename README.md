@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Mohamed+Osama;Programmer+%26+Sports+Content+Creator;Flutter+%7C+Java+%7C+C%2B%2B+%7C+Python" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Mohamed%20Osama&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Programmer%20%7C%20Sports%20Content%20Creator&descAlignY=55&descSize=20" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Mohamed+Osama;Flutter+Developer;Java+%7C+C%2B%2B+%7C+Python;Sports+Content+Creator+on+TikTok" />
 </p>
 
 # Hi, I'm Mohamed Osama 👋
@@ -45,13 +49,6 @@
 
 ---
 
-## 📱 TikTok
-
-🎥 Creating football & sports content on TikTok
-⚡ Sharing football passion, edits, and sports moments.
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -64,8 +61,14 @@
 
 ## 🌍 Connect With Me
 
-[![TikTok](https://img.shields.io/badge/-TikTok-000?\&logo=TikTok)](YOUR_TIKTOK_LINK)
+[![Facebook](https://img.shields.io/badge/-Facebook-000?\&logo=Facebook)](https://www.facebook.com/mohamed.osama.7001)
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?\&logo=Linkedin)](https://www.linkedin.com/in/mohamed-osama-431a01337/)
+
+[![TikTok](https://img.shields.io/badge/-TikTok-000?\&logo=TikTok)](https://www.tiktok.com/@mohamedosama_503?lang=en)
 
 [![GitHub](https://img.shields.io/badge/-GitHub-000?\&logo=GitHub)](https://github.com/YOUR_USERNAME)
+
+---
 
 ⭐ Always learning, building, and creating.
