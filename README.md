@@ -1,3 +1,5 @@
+<!-- Mohamed Osama - GitHub Profile -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Mohamed%20Osama&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Programmer%20%7C%20Sports%20Content%20Creator&descAlignY=55&descSize=20" />
 </p>
@@ -6,7 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Mohamed+Osama;Flutter+Developer;Java+%7C+C%2B%2B+%7C+Python;Sports+Content+Creator+on+TikTok" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Mohamed Osama</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mohamed Osama</h1>
 
 <h3 align="center">Programmer • Flutter Developer • Sports Content Creator</h3>
 
@@ -53,13 +55,20 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mohamedosama503&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedosama503&layout=compact&theme=tokyonight" />
+  <!-- الـ Stats Card مع بارامترات لفرض التحميل -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamedosama503&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800&no-bg=true&hide_title=true" />
 </p>
 
 <p align="center">
-  <img width="97%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedosama503&theme=tokyonight" />
+  <!-- الـ Language Card مع بارامترات لفرض التحميل -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedosama503&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
+
+<p align="center">
+  <!-- الـ Streak Card مع بارامترات لفرض التحميل -->
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedosama503&theme=tokyonight&cache_seconds=1800" />
+</p>
+
 ---
 
 ## 🌍 Connect With Me
