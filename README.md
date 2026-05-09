@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Mohamed+Osama;Programmer+%26+Sports+Content+Creator;Flutter+%7C+Java+%7C+C%2B%2B+%7C+Python" />
+</p>
+
 # Hi, I'm Mohamed Osama 👋
 
 💻 Programmer & Software Developer
@@ -50,11 +54,11 @@
 
 ## 📊 GitHub Stats
 
-<a href="https://github.com/YOUR_USERNAME">
+<p align="center">
   <img height="170px" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
 
   <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</a>
+</p>
 
 ---
 
