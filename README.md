@@ -52,21 +52,21 @@
 
 ---
 
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- الـ Stats Card مع بارامترات لفرض التحميل -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamedosama503&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800&no-bg=true&hide_title=true" />
+  <!-- استخدام سيرفر بديل (vercel.app) لضمان التحميل -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mohamedosama503&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Mohamed's GitHub Stats" />
 </p>
 
 <p align="center">
-  <!-- الـ Language Card مع بارامترات لفرض التحميل -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedosama503&layout=compact&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mohamedosama503&layout=compact&theme=tokyonight" alt="Mohamed's Top Langs" />
 </p>
 
 <p align="center">
-  <!-- الـ Streak Card مع بارامترات لفرض التحميل -->
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedosama503&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedosama503&theme=tokyonight" alt="Mohamed's Streak" />
 </p>
 
 ---
